@@ -1,0 +1,15 @@
+{
+   "applinks": {
+       "apps": [],
+       "details": [
+       {
+               "appID": "L2QFT5NA2Q.com.youla.enterprise",
+               "paths": [ "*", "NOT *from=turbo" ]
+           },
+           {
+               "appID": "4D6LA585PP.com.allgoritm.Youla",
+               "paths": [ "*", "NOT *from=turbo" ]
+           }
+       ]
+   }
+}
